@@ -1,8 +1,8 @@
 //
 //  ViewController.h
-//  TestAnimation
+//  TableViewVariants
 //
-//  Created by QuangTran on 6/8/16.
+//  Created by QuangTran on 6/15/16.
 //  Copyright © 2016 company. All rights reserved.
 //
 

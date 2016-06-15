@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "1B8AB4C11D07CAD90038D59B"
-               BuildableName = "TestAnimation.app"
-               BlueprintName = "TestAnimation"
-               ReferencedContainer = "container:TestAnimation.xcodeproj">
+               BlueprintIdentifier = "1B0327701D110EFC00D60CD2"
+               BuildableName = "TableViewVariants.app"
+               BlueprintName = "TableViewVariants"
+               ReferencedContainer = "container:TableViewVariants.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,10 +32,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "1B8AB4C11D07CAD90038D59B"
-            BuildableName = "TestAnimation.app"
-            BlueprintName = "TestAnimation"
-            ReferencedContainer = "container:TestAnimation.xcodeproj">
+            BlueprintIdentifier = "1B0327701D110EFC00D60CD2"
+            BuildableName = "TableViewVariants.app"
+            BlueprintName = "TableViewVariants"
+            ReferencedContainer = "container:TableViewVariants.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -55,10 +55,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "1B8AB4C11D07CAD90038D59B"
-            BuildableName = "TestAnimation.app"
-            BlueprintName = "TestAnimation"
-            ReferencedContainer = "container:TestAnimation.xcodeproj">
+            BlueprintIdentifier = "1B0327701D110EFC00D60CD2"
+            BuildableName = "TableViewVariants.app"
+            BlueprintName = "TableViewVariants"
+            ReferencedContainer = "container:TableViewVariants.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -74,10 +74,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "1B8AB4C11D07CAD90038D59B"
-            BuildableName = "TestAnimation.app"
-            BlueprintName = "TestAnimation"
-            ReferencedContainer = "container:TestAnimation.xcodeproj">
+            BlueprintIdentifier = "1B0327701D110EFC00D60CD2"
+            BuildableName = "TableViewVariants.app"
+            BlueprintName = "TableViewVariants"
+            ReferencedContainer = "container:TableViewVariants.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
